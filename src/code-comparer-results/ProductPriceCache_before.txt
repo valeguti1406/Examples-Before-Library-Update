@@ -1,0 +1,31 @@
+====================
+{
+  "fileName": "ProductPriceCache",
+  "lineNumber": 35,
+  "currentMethodState": {
+    "methodName": "getProductPrice",
+    "returnType": "double",
+    "parameters": [
+      {
+        "name": "product",
+        "serializedValue": "\"orange\""
+      }
+    ]
+  },
+  "invokedMethodState": {
+    "methodName": "lambda$getProductPrice$0",
+    "returnType": "java.lang.Double",
+    "parameters": [
+      {
+        "name": "product",
+        "serializedValue": "\"orange\""
+      },
+      {
+        "name": "key",
+        "serializedValue": "\"orange\""
+      }
+    ]
+  },
+  "invokedMethodReturnValue": "2.0"
+}
+====================

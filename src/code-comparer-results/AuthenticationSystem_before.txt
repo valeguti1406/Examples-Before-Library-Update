@@ -1,0 +1,27 @@
+====================
+{
+  "fileName": "AuthenticationSystem",
+  "lineNumber": 32,
+  "currentMethodState": {
+    "methodName": "authenticateUser",
+    "returnType": "boolean",
+    "parameters": [
+      {
+        "name": "inputPassword",
+        "serializedValue": "\"SecurePassword123\""
+      }
+    ]
+  },
+  "invokedMethodState": {
+    "methodName": "encodeBase64String",
+    "returnType": "java.lang.String",
+    "parameters": [
+      {
+        "name": "binaryData",
+        "serializedValue": "[83,101,99,117,114,101,80,97,115,115,119,111,114,100,49,50,51]"
+      }
+    ]
+  },
+  "invokedMethodReturnValue": "\"U2VjdXJlUGFzc3dvcmQxMjM\u003d\\r\\n\""
+}
+====================

@@ -1,0 +1,22 @@
+====================
+{
+  "fileName": "CustomerDataApiSimulator",
+  "lineNumber": 29,
+  "currentMethodState": {
+    "methodName": "simulateApiCall",
+    "returnType": "java.lang.String",
+    "parameters": []
+  },
+  "invokedMethodState": {
+    "methodName": "writeValueAsString",
+    "returnType": "java.lang.String",
+    "parameters": [
+      {
+        "name": "value",
+        "serializedValue": "{\"requestId\":\"REQ-00123\",\"legacyData\":\"Legacy field still used by old clients\",\"newData\":\"Modern version of legacy data\"}"
+      }
+    ]
+  },
+  "invokedMethodReturnValue": "\"{\\\"requestId\\\":\\\"REQ-00123\\\",\\\"legacyData\\\":\\\"Legacy field still used by old clients\\\",\\\"newData\\\":\\\"Modern version of legacy data\\\"}\""
+}
+====================
